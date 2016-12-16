@@ -6,7 +6,7 @@ How to use it?
 Just like a stand RecyclerView:
 
 Effect:
- ![image](https://github.com/yuyuyu123/SwipeCardsRecyclerView/screenshots/screenshot.gif)
+
 
 
   private void initRecyclerView() {
