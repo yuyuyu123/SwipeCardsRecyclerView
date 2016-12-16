@@ -6,8 +6,8 @@ How to use it?
 Just like a stand RecyclerView:
 
 Effect:
-
-
+ 	screenshot.gif
+![image](https://github.com/yuyuyu123/SwipeCardsRecyclerView/screenshot.jpg)
 
   private void initRecyclerView() {
         mRecyclerView = (SwipeCardsRecyclerView) findViewById(R.id.id_recycler_view);
