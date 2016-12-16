@@ -7,7 +7,7 @@ Just like a stand RecyclerView:
 
 Effect:
  	screenshot.gif
-![image](https://github.com/yuyuyu123/SwipeCardsRecyclerView/screenshot.gif)
+![image](https://github.com/yuyuyu123/SwipeCardsRecyclerView/blob/master/screenshot.gif)
 
   private void initRecyclerView() {
         mRecyclerView = (SwipeCardsRecyclerView) findViewById(R.id.id_recycler_view);
