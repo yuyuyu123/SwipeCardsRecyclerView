@@ -10,8 +10,8 @@ Effect:
 
 How to use it?
 Just like a standard RecyclerView:
-
-  private void initRecyclerView() {
+    
+    private void initRecyclerView() {
         mRecyclerView = (SwipeCardsRecyclerView) findViewById(R.id.id_recycler_view);
         mRecyclerView.setLayoutManager(new SwipeCardsLayoutManager());
         mAdapter = new CustomSwipeCardsAdapter(this, mList);
@@ -22,7 +22,8 @@ Just like a standard RecyclerView:
     }
     
 the SwipeCardsRecyclerView.OnCardsRemovedListener:
-  @Override public void onCardsRightRemoved(View itemView, int position) {
+    
+    @Override public void onCardsRightRemoved(View itemView, int position) {
         Log.e(TAG, "onCardsRightRemoved:" + position);
     }
 
