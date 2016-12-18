@@ -1,13 +1,15 @@
 # SwipeCardsRecyclerView
-an android widget call SwipeCardsRecyclerView which based on RecyclerView.
+an android widget named SwipeCardsRecyclerView which based on RecyclerView.
+
+Effect:
+
+
+![image](https://github.com/yuyuyu123/SwipeCardsRecyclerView/blob/master/screenshot.gif)
+
 
 
 How to use it?
-Just like a stand RecyclerView:
-
-Effect:
- 	screenshot.gif
-![image](https://github.com/yuyuyu123/SwipeCardsRecyclerView/blob/master/screenshot.gif)
+Just like a standard RecyclerView:
 
   private void initRecyclerView() {
         mRecyclerView = (SwipeCardsRecyclerView) findViewById(R.id.id_recycler_view);
